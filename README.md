@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Github is pretty cool.  I like what I have seen so far
